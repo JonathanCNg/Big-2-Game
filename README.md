@@ -4,6 +4,7 @@ Big 2 Game with graphical interface made with SFML & C++14 in Fall 2021. Require
 ## What is Big 2? How do I play?
 
 Game Explanation: https://youtu.be/hhJMbPVuaFo
+
 *This is not my video.*
 
 ## Sample Image
