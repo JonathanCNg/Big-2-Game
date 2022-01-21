@@ -1,5 +1,8 @@
 # Big-2-Game
-Big 2 Game with graphical interface made with SFML & C++14 in Fall 2021. Requires SFML installation and CMakeList.txt directly addressed to where SFML is installed.
+
+Big 2 Game with graphical interface made with SFML & C++14 in Fall 2021. 
+
+Requires SFML installation and CMakeList.txt directly addressed to where SFML is installed.
 
 ## What is Big 2? How do I play?
 
