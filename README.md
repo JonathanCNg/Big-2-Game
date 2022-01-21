@@ -2,9 +2,9 @@
 
 Digitalized version of the classic Big 2 Game! 🃏♦♣♥♠
 
-## 2 Min Application Demonstration
+## 2 Min Application Demo and Runthrough
 
-https://youtu.be/NxLOejehSmM
+Link: https://youtu.be/NxLOejehSmM
 
 ## Interface
 
