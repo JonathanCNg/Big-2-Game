@@ -2,7 +2,7 @@
 
 Digitalized version of the classic Big 2 Game! 🃏♦♣♥♠
 
-## Video Demonstration
+## 2 Min Video Demonstration
 
 https://youtu.be/NxLOejehSmM
 
