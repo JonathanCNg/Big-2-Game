@@ -2,17 +2,17 @@
 
 Digitalized version of the classic Big 2 Game! 🃏♦♣♥♠
 
-## What is Big 2? How do I play?
+## Video Demonstration
 
-(Unaffiliated) Game Explanation: https://youtu.be/hhJMbPVuaFo
+https://youtu.be/NxLOejehSmM
 
 ## Interface
 
 <img src="Sample.jpg" height="300"/>
 
-## Video Demonstration
+## What is Big 2? How do I play?
 
-https://youtu.be/NxLOejehSmM
+(Unaffiliated) Game Explanation: https://youtu.be/hhJMbPVuaFo
 
 ## Tools Used
 1. C++ (https://www.cplusplus.com/)
