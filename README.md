@@ -4,9 +4,7 @@ Digitalized version of the classic Big 2 Game! 🃏♦♣♥♠
 
 ## What is Big 2? How do I play?
 
-Game Explanation: https://youtu.be/hhJMbPVuaFo
-
-*Disclaimer: This is not my video.*
+(Unaffiliated) Game Explanation: https://youtu.be/hhJMbPVuaFo
 
 ## Sample Image
 
