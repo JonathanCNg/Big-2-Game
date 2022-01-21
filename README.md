@@ -6,7 +6,7 @@ Digitalized version of the classic Big 2 Game! 🃏♦♣♥♠
 
 (Unaffiliated) Game Explanation: https://youtu.be/hhJMbPVuaFo
 
-## Sample Image
+## Interface
 
 <img src="Sample.jpg" height="300"/>
 
