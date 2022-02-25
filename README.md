@@ -8,7 +8,7 @@ Link: https://youtu.be/NxLOejehSmM
 
 ## Interface
 
-<img src="Sample.jpg" height="300"/>
+<img src="big2-sample.gif" height="300"/>
 
 ## What is Big 2? How do I play?
 
